@@ -1,4 +1,4 @@
 {
-	"mongoURI": "mongodb://localhost:27017/contact",
+	"mongoURI": "mongodb+srv://sachinsandrons22cse:sachin2005@cluster0.foi4t.mongodb.net/ContactManager?retryWrites=true&w=majority&appName=Cluster0",
 	"jwtSecret": "secret"
 }
